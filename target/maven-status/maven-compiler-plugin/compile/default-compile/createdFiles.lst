@@ -1,0 +1,7 @@
+com\mycompany\uqar_if_cours_02_jdbc\JAXRSConfiguration.class
+com\mycompany\uqar_if_cours_02_jdbc\servlets\Login.class
+com\mycompany\uqar_if_cours_02_jdbc\resources\JavaEE8Resource.class
+com\mycompany\uqar_if_cours_02_jdbc\UpdateInfo.class
+com\mycompany\uqar_if_cours_02_jdbc\dao\UserDAO.class
+com\mycompany\uqar_if_cours_02_jdbc\utils\Utils.class
+com\mycompany\uqar_if_cours_02_jdbc\dto\UserDTO.class
